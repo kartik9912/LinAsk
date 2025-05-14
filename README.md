@@ -36,7 +36,8 @@
 
 ## 📁Folder Structure
 
-![image](https://github.com/user-attachments/assets/6becf53f-58fa-4306-9e25-a02386985e20)
+![image](https://github.com/user-attachments/assets/6605dd82-5ff5-43ac-b764-802da2ad8e3d)
+
 
 
 
