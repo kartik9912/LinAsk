@@ -35,11 +35,9 @@
 ---
 
 ## 📁Folder Structure
-LinAsk/
-├── linask.sh           # Main bash script
-├── assets/             # Optional: logo, icons, etc.
-├── logs/               # Log files for executed actions
-└── README.md           # Project documentation
+
+![image](https://github.com/user-attachments/assets/6becf53f-58fa-4306-9e25-a02386985e20)
+
 
 
 ---
