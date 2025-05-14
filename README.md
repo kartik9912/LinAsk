@@ -34,22 +34,32 @@
 
 ---
 
-##📁Folder Structure
+## 📁Folder Structure
 LinAsk/
 ├── linask.sh           # Main bash script
 ├── assets/             # Optional: logo, icons, etc.
 ├── logs/               # Log files for executed actions
 └── README.md           # Project documentation
 
-👨‍💻 Author
-Kartik Joshi
 
+---
+
+## 👨‍💻 Author
+Kartik Joshi
 GitHub: @kartik9912
 
-📜 License
+
+---
+## 📜 License
 This project is licensed under the MIT License.
 
-💡 Inspiration
+
+
+---
+## 💡 Inspiration
 Built as a semester project for the Linux Administration course, inspired by futuristic terminal assistants like J.A.R.V.I.S.
 
+
+
+---
 
