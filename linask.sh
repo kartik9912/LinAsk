@@ -1,16 +1,16 @@
 #!/bin/bash
 
-# Load modules
+
 source modules/system_info.sh
 source modules/network_tools.sh
 source modules/user_management.sh
 source modules/file_ops.sh
 source modules/logs.sh
 
-# Create logs directory if not exists
+
 mkdir -p logs
 
-# Main menu loop
+
 while true; do
     CHOICE=$(whiptail --title "LinAsk - Linux Personal Assistant" \
         --menu "Choose a task:" 20 60 10 \
